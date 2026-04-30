@@ -3,7 +3,8 @@
 This project is a simple resume screening web application built using Python and Streamlit.
 
 It allows users to upload a resume (PDF, DOCX, or TXT), extracts the text, and predicts the job category using a trained machine learning model.
-
+## LIVE LINK!
+https://ml-resume-classifier-bgtr57ptfkw8cx8pifzqox.streamlit.app/
 ## Features
 - Upload resume files
 - Extract text from PDF, DOCX, and TXT
